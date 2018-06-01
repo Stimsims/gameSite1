@@ -1,0 +1,90 @@
+{
+  "assetsByChunkName": {
+    "path---tags-vanilla": [
+      "path---tags-vanilla-bb79b6d95f76a14579b9.js",
+      "path---tags-vanilla-bb79b6d95f76a14579b9.js.map"
+    ],
+    "component---src-pages-index-js": [
+      "component---src-pages-index-js-b9eccd9b9761bf40816b.js",
+      "component---src-pages-index-js-b9eccd9b9761bf40816b.js.map"
+    ],
+    "component---src-templates-tags-js": [
+      "component---src-templates-tags-js-f798f1e2e2ec54c896ad.js",
+      "component---src-templates-tags-js-f798f1e2e2ec54c896ad.js.map"
+    ],
+    "path---": [
+      "path----607c5b4642bc816cb3e6.js",
+      "path----607c5b4642bc816cb3e6.js.map"
+    ],
+    "component---src-pages-game-b-jsx": [
+      "component---src-pages-game-b-jsx-cd38d4877e7494be8af7.js",
+      "component---src-pages-game-b-jsx-cd38d4877e7494be8af7.js.map"
+    ],
+    "component---src-layouts-index-js": [
+      "component---src-layouts-index-js-3ba40334881478eb21fc.js",
+      "component---src-layouts-index-js-3ba40334881478eb21fc.js.map"
+    ],
+    "path---page-2": [
+      "path---page-2-a0e39f21c11f6a62c5ab.js",
+      "path---page-2-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "path---index": [
+      "path---index-1e9c01074554e14e183b.js",
+      "path---index-1e9c01074554e14e183b.js.map"
+    ],
+    "component---src-pages-404-js": [
+      "component---src-pages-404-js-4503918ea3a16cfcdb75.js",
+      "component---src-pages-404-js-4503918ea3a16cfcdb75.js.map"
+    ],
+    "commons": [
+      "commons-403258ad126d5c26671b.js",
+      "commons-403258ad126d5c26671b.js.map"
+    ],
+    "path---404-html": [
+      "path---404-html-a0e39f21c11f6a62c5ab.js",
+      "path---404-html-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "path---json-b": [
+      "path---json-b-c538c4a5c4896316e7a1.js",
+      "path---json-b-c538c4a5c4896316e7a1.js.map"
+    ],
+    "path---json-a": [
+      "path---json-a-c3301d49e6fc14bcd961.js",
+      "path---json-a-c3301d49e6fc14bcd961.js.map"
+    ],
+    "component---src-pages-game-a-jsx": [
+      "component---src-pages-game-a-jsx-02c52a9bb39a4a24f3fe.js",
+      "component---src-pages-game-a-jsx-02c52a9bb39a4a24f3fe.js.map"
+    ],
+    "component---src-templates-post-js": [
+      "component---src-templates-post-js-7f87cebe53eb22b1c0d2.js",
+      "component---src-templates-post-js-7f87cebe53eb22b1c0d2.js.map"
+    ],
+    "path---game-b": [
+      "path---game-b-a0e39f21c11f6a62c5ab.js",
+      "path---game-b-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "component---src-pages-page-2-js": [
+      "component---src-pages-page-2-js-075954cd9c4544c7dcd8.js",
+      "component---src-pages-page-2-js-075954cd9c4544c7dcd8.js.map"
+    ],
+    "app": [
+      "app-3166d6c710b9a2c50596.js",
+      "build-js-styles.css",
+      "app-3166d6c710b9a2c50596.js.map",
+      "build-js-styles.css.map"
+    ],
+    "path---404": [
+      "path---404-a0e39f21c11f6a62c5ab.js",
+      "path---404-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "path---game-a": [
+      "path---game-a-a0e39f21c11f6a62c5ab.js",
+      "path---game-a-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "path---tags-chocolate": [
+      "path---tags-chocolate-8233459a8638cf33090c.js",
+      "path---tags-chocolate-8233459a8638cf33090c.js.map"
+    ]
+  }
+}

@@ -1,0 +1,2 @@
+webpackJsonp([50739212244294],{203:function(e,t,a){"use strict";function u(e){return e&&e.__esModule?e:{default:e}}t.__esModule=!0,t.pageQuery=void 0;var n=a(4),r=u(n),l=function(e){e.pathContext,e.data;return r.default.createElement("p",null,"A Tag")};t.default=l;t.pageQuery="** extracted graphql fragment **"}});
+//# sourceMappingURL=component---src-templates-tags-js-e4f8a2f107b92a637ffa.js.map

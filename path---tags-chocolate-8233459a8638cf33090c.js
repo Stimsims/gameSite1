@@ -1,0 +1,2 @@
+webpackJsonp([0xeda286f54fbd],{343:function(a,o){a.exports={data:{allJsonJson:{totalCount:2,edges:[{node:{value:"a",path:"/json-a",tags:["chocolate","vanilla"]}},{node:{value:"b",path:"/json-b",tags:["chocolate"]}}]}},pathContext:{tag:"chocolate"}}}});
+//# sourceMappingURL=path---tags-chocolate-8233459a8638cf33090c.js.map
