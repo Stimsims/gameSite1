@@ -1,0 +1,2 @@
+webpackJsonp([0xec2c49ae1ccf],{740:function(a,e){a.exports={data:{allGamesJson:{edges:[{node:{title:"B's title",path:"/json-bg",tags:["chocolate"],game:"/GameB"}},{node:{title:"A's title",path:"/json-ag",tags:["chocolate","vanilla"],game:"/GameA"}}]}},pathContext:{}}}});
+//# sourceMappingURL=path---games-57eafe809733998beecc.js.map

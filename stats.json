@@ -85,9 +85,9 @@
       "component---src-pages-page-2-js-075954cd9c4544c7dcd8.js.map"
     ],
     "app": [
-      "app-f78c5b7a585d08b83595.js",
+      "app-379dd36ca32e8a472909.js",
       "build-js-styles.css",
-      "app-f78c5b7a585d08b83595.js.map",
+      "app-379dd36ca32e8a472909.js.map",
       "build-js-styles.css.map"
     ],
     "path---404": [
@@ -99,12 +99,12 @@
       "path---game-a-a0e39f21c11f6a62c5ab.js.map"
     ],
     "path---games": [
-      "path---games-d87a935190e433378dc7.js",
-      "path---games-d87a935190e433378dc7.js.map"
+      "path---games-57eafe809733998beecc.js",
+      "path---games-57eafe809733998beecc.js.map"
     ],
     "path---tags-chocolate": [
-      "path---tags-chocolate-65a3f34a7fca83b5f196.js",
-      "path---tags-chocolate-65a3f34a7fca83b5f196.js.map"
+      "path---tags-chocolate-8233459a8638cf33090c.js",
+      "path---tags-chocolate-8233459a8638cf33090c.js.map"
     ]
   }
 }
