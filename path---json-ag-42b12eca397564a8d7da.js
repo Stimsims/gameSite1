@@ -1,2 +1,2 @@
-webpackJsonp([0x756b81d5d116],{743:function(t,a){t.exports={data:{site:{siteMetadata:{title:"Game Site 1"}},gamesJson:{title:"A's title",path:"/json-ag",tags:["chocolate","vanilla"],game:"/GameA"}},pathContext:{}}}});
+webpackJsonp([0x756b81d5d116],{753:function(t,a){t.exports={data:{site:{siteMetadata:{title:"Game Site 1"}},gamesJson:{title:"A's title",path:"/json-ag",tags:["chocolate","vanilla"],game:"/GameA"}},pathContext:{}}}});
 //# sourceMappingURL=path---json-ag-42b12eca397564a8d7da.js.map
