@@ -1,0 +1,2 @@
+webpackJsonp([0xa6a7194ef415],{745:function(t,a){t.exports={data:{site:{siteMetadata:{title:"Game Site 1"}},gamesJson:{title:"B's title",path:"/json-bg",tags:["chocolate"],game:"/GameB"}},pathContext:{}}}});
+//# sourceMappingURL=path---json-bg-bd5e6b1ed7fd051abded.js.map

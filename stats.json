@@ -1,12 +1,16 @@
 {
   "assetsByChunkName": {
+    "component---src-pages-games-js": [
+      "component---src-pages-games-js-743697fac8ca1690a264.js",
+      "component---src-pages-games-js-743697fac8ca1690a264.js.map"
+    ],
     "path---tags-vanilla": [
       "path---tags-vanilla-bb79b6d95f76a14579b9.js",
       "path---tags-vanilla-bb79b6d95f76a14579b9.js.map"
     ],
     "component---src-pages-index-js": [
-      "component---src-pages-index-js-b9eccd9b9761bf40816b.js",
-      "component---src-pages-index-js-b9eccd9b9761bf40816b.js.map"
+      "component---src-pages-index-js-f6608210dff008711f59.js",
+      "component---src-pages-index-js-f6608210dff008711f59.js.map"
     ],
     "component---src-templates-tags-js": [
       "component---src-templates-tags-js-f798f1e2e2ec54c896ad.js",
@@ -21,44 +25,56 @@
       "component---src-pages-game-b-jsx-cd38d4877e7494be8af7.js.map"
     ],
     "component---src-layouts-index-js": [
-      "component---src-layouts-index-js-3ba40334881478eb21fc.js",
-      "component---src-layouts-index-js-3ba40334881478eb21fc.js.map"
+      "component---src-layouts-index-js-d12a6ad2e1dfc2ef2a47.js",
+      "component---src-layouts-index-js-d12a6ad2e1dfc2ef2a47.js.map"
+    ],
+    "path---json-ag": [
+      "path---json-ag-42b12eca397564a8d7da.js",
+      "path---json-ag-42b12eca397564a8d7da.js.map"
+    ],
+    "component---src-templates-game-js": [
+      "component---src-templates-game-js-a074877937594a7524d7.js",
+      "component---src-templates-game-js-a074877937594a7524d7.js.map"
     ],
     "path---page-2": [
       "path---page-2-a0e39f21c11f6a62c5ab.js",
       "path---page-2-a0e39f21c11f6a62c5ab.js.map"
     ],
     "path---index": [
-      "path---index-1e9c01074554e14e183b.js",
-      "path---index-1e9c01074554e14e183b.js.map"
+      "path---index-9bcdd4b064d993d18085.js",
+      "path---index-9bcdd4b064d993d18085.js.map"
     ],
     "component---src-pages-404-js": [
       "component---src-pages-404-js-4503918ea3a16cfcdb75.js",
       "component---src-pages-404-js-4503918ea3a16cfcdb75.js.map"
     ],
     "commons": [
-      "commons-403258ad126d5c26671b.js",
-      "commons-403258ad126d5c26671b.js.map"
+      "commons-ac98d73bc7bf789749ce.js",
+      "commons-ac98d73bc7bf789749ce.js.map"
     ],
     "path---404-html": [
       "path---404-html-a0e39f21c11f6a62c5ab.js",
       "path---404-html-a0e39f21c11f6a62c5ab.js.map"
     ],
     "path---json-b": [
-      "path---json-b-c538c4a5c4896316e7a1.js",
-      "path---json-b-c538c4a5c4896316e7a1.js.map"
+      "path---json-b-0ffc891b01d7b2733107.js",
+      "path---json-b-0ffc891b01d7b2733107.js.map"
     ],
     "path---json-a": [
-      "path---json-a-c3301d49e6fc14bcd961.js",
-      "path---json-a-c3301d49e6fc14bcd961.js.map"
+      "path---json-a-14994de7efb4d3998d93.js",
+      "path---json-a-14994de7efb4d3998d93.js.map"
+    ],
+    "path---json-bg": [
+      "path---json-bg-bd5e6b1ed7fd051abded.js",
+      "path---json-bg-bd5e6b1ed7fd051abded.js.map"
     ],
     "component---src-pages-game-a-jsx": [
       "component---src-pages-game-a-jsx-02c52a9bb39a4a24f3fe.js",
       "component---src-pages-game-a-jsx-02c52a9bb39a4a24f3fe.js.map"
     ],
     "component---src-templates-post-js": [
-      "component---src-templates-post-js-7f87cebe53eb22b1c0d2.js",
-      "component---src-templates-post-js-7f87cebe53eb22b1c0d2.js.map"
+      "component---src-templates-post-js-de7365fdcf2b8d8f99da.js",
+      "component---src-templates-post-js-de7365fdcf2b8d8f99da.js.map"
     ],
     "path---game-b": [
       "path---game-b-a0e39f21c11f6a62c5ab.js",
@@ -69,9 +85,9 @@
       "component---src-pages-page-2-js-075954cd9c4544c7dcd8.js.map"
     ],
     "app": [
-      "app-3166d6c710b9a2c50596.js",
+      "app-f78c5b7a585d08b83595.js",
       "build-js-styles.css",
-      "app-3166d6c710b9a2c50596.js.map",
+      "app-f78c5b7a585d08b83595.js.map",
       "build-js-styles.css.map"
     ],
     "path---404": [
@@ -82,9 +98,13 @@
       "path---game-a-a0e39f21c11f6a62c5ab.js",
       "path---game-a-a0e39f21c11f6a62c5ab.js.map"
     ],
+    "path---games": [
+      "path---games-d87a935190e433378dc7.js",
+      "path---games-d87a935190e433378dc7.js.map"
+    ],
     "path---tags-chocolate": [
-      "path---tags-chocolate-8233459a8638cf33090c.js",
-      "path---tags-chocolate-8233459a8638cf33090c.js.map"
+      "path---tags-chocolate-65a3f34a7fca83b5f196.js",
+      "path---tags-chocolate-65a3f34a7fca83b5f196.js.map"
     ]
   }
 }
