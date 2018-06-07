@@ -1,2 +1,2 @@
-webpackJsonp([0xec2c49ae1ccf],{750:function(a,e){a.exports={data:{allGamesJson:{edges:[{node:{title:"A's title",path:"/json-ag",tags:["chocolate","vanilla"],game:"/GameA"}},{node:{title:"B's title",path:"/json-bg",tags:["chocolate"],game:"/GameB"}}]}},pathContext:{}}}});
+webpackJsonp([0xec2c49ae1ccf],{429:function(a,e){a.exports={data:{allGamesJson:{edges:[{node:{title:"A's title",path:"/json-ag",tags:["chocolate","vanilla"],game:"/GameA"}},{node:{title:"B's title",path:"/json-bg",tags:["chocolate"],game:"/GameB"}}]}},pathContext:{}}}});
 //# sourceMappingURL=path---games-d87a935190e433378dc7.js.map

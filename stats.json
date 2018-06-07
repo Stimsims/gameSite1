@@ -9,12 +9,20 @@
       "path---tags-vanilla-bb79b6d95f76a14579b9.js.map"
     ],
     "component---src-pages-index-js": [
-      "component---src-pages-index-js-f6608210dff008711f59.js",
-      "component---src-pages-index-js-f6608210dff008711f59.js.map"
+      "component---src-pages-index-js-5db03dc7455ff705eed8.js",
+      "component---src-pages-index-js-5db03dc7455ff705eed8.js.map"
+    ],
+    "component---src-pages-options-jsx": [
+      "component---src-pages-options-jsx-286d25b7db07c50b92bb.js",
+      "component---src-pages-options-jsx-286d25b7db07c50b92bb.js.map"
     ],
     "component---src-templates-tags-js": [
       "component---src-templates-tags-js-f798f1e2e2ec54c896ad.js",
       "component---src-templates-tags-js-f798f1e2e2ec54c896ad.js.map"
+    ],
+    "path---options": [
+      "path---options-a0e39f21c11f6a62c5ab.js",
+      "path---options-a0e39f21c11f6a62c5ab.js.map"
     ],
     "path---": [
       "path----607c5b4642bc816cb3e6.js",
@@ -25,24 +33,24 @@
       "component---src-pages-game-b-jsx-cd38d4877e7494be8af7.js.map"
     ],
     "component---src-layouts-index-js": [
-      "component---src-layouts-index-js-a6325d70fda80c2d6be5.js",
-      "component---src-layouts-index-js-a6325d70fda80c2d6be5.js.map"
+      "component---src-layouts-index-js-53b4098ef4e6002bb5d6.js",
+      "component---src-layouts-index-js-53b4098ef4e6002bb5d6.js.map"
     ],
     "path---json-ag": [
       "path---json-ag-42b12eca397564a8d7da.js",
       "path---json-ag-42b12eca397564a8d7da.js.map"
     ],
     "component---src-templates-game-js": [
-      "component---src-templates-game-js-a074877937594a7524d7.js",
-      "component---src-templates-game-js-a074877937594a7524d7.js.map"
+      "component---src-templates-game-js-fe741b4ddf9822ba6d55.js",
+      "component---src-templates-game-js-fe741b4ddf9822ba6d55.js.map"
     ],
     "path---page-2": [
       "path---page-2-a0e39f21c11f6a62c5ab.js",
       "path---page-2-a0e39f21c11f6a62c5ab.js.map"
     ],
     "path---index": [
-      "path---index-9bcdd4b064d993d18085.js",
-      "path---index-9bcdd4b064d993d18085.js.map"
+      "path---index-8c9d59506f9f2dad5bd7.js",
+      "path---index-8c9d59506f9f2dad5bd7.js.map"
     ],
     "component---src-pages-404-js": [
       "component---src-pages-404-js-4503918ea3a16cfcdb75.js",
@@ -50,7 +58,9 @@
     ],
     "commons": [
       "commons-ac98d73bc7bf789749ce.js",
-      "commons-ac98d73bc7bf789749ce.js.map"
+      "build-js-styles.css",
+      "commons-ac98d73bc7bf789749ce.js.map",
+      "build-js-styles.css.map"
     ],
     "path---404-html": [
       "path---404-html-a0e39f21c11f6a62c5ab.js",
@@ -73,8 +83,8 @@
       "component---src-pages-game-a-jsx-02c52a9bb39a4a24f3fe.js.map"
     ],
     "component---src-templates-post-js": [
-      "component---src-templates-post-js-de7365fdcf2b8d8f99da.js",
-      "component---src-templates-post-js-de7365fdcf2b8d8f99da.js.map"
+      "component---src-templates-post-js-f4f3e799b78bdf9048d9.js",
+      "component---src-templates-post-js-f4f3e799b78bdf9048d9.js.map"
     ],
     "path---game-b": [
       "path---game-b-a0e39f21c11f6a62c5ab.js",
@@ -85,9 +95,9 @@
       "component---src-pages-page-2-js-075954cd9c4544c7dcd8.js.map"
     ],
     "app": [
-      "app-b5b32b6443ed21765eb6.js",
+      "app-1b5de34fd925fa29dfab.js",
       "build-js-styles.css",
-      "app-b5b32b6443ed21765eb6.js.map",
+      "app-1b5de34fd925fa29dfab.js.map",
       "build-js-styles.css.map"
     ],
     "path---404": [

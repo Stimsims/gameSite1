@@ -1,2 +1,2 @@
-webpackJsonp([0xeda286f54fbd],{747:function(a,o){a.exports={data:{allJsonJson:{totalCount:2,edges:[{node:{value:"b",path:"/json-b",tags:["chocolate"]}},{node:{value:"a",path:"/json-a",tags:["chocolate","vanilla"]}}]}},pathContext:{tag:"chocolate"}}}});
+webpackJsonp([0xeda286f54fbd],{427:function(a,o){a.exports={data:{allJsonJson:{totalCount:2,edges:[{node:{value:"b",path:"/json-b",tags:["chocolate"]}},{node:{value:"a",path:"/json-a",tags:["chocolate","vanilla"]}}]}},pathContext:{tag:"chocolate"}}}});
 //# sourceMappingURL=path---tags-chocolate-65a3f34a7fca83b5f196.js.map

@@ -1,0 +1,2 @@
+webpackJsonp([0x81b8806e4260],{430:function(t,e){t.exports={data:{site:{siteMetadata:{title:"Game Site 1"}},allContentJson:{edges:[{node:{title:"B's title",date:"May 8th",path:"/json-b",tags:["vanilla"],game:"/GameB",content:[{type:"text",text:"Poptarts sound good.",options:null}]}},{node:{title:"A's title",date:"May 8th",path:"/json-a",tags:["chocolate","vanilla"],game:"/GameA",content:[{type:"text",text:"Popover look good.",options:"hi"}]}}]}},pathContext:{}}}});
+//# sourceMappingURL=path---index-8c9d59506f9f2dad5bd7.js.map
